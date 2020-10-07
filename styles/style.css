@@ -10,9 +10,15 @@ body {
     width: 50px;
 }
 
+
+
+.header .navbar .navbar-toggler {
+    border: 1px solid white;
+}
+
 .header .navbar ul li a {
     padding: 0px;
-    color: white;
+    color: white !important;
     margin-right: 15px;
     line-height: 66px;
 }
